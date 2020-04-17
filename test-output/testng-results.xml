@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Default test---Test script is stated]]>
+    </line>
+    <line>
+      <![CDATA[fbNotifications---Test script is stated]]>
+    </line>
+    <line>
+      <![CDATA[fbNotifications---Test script is passed]]>
+    </line>
+    <line>
+      <![CDATA[searchProduct---Test script is stated]]>
+    </line>
+    <line>
+      <![CDATA[searchProduct---Test script is passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89717" started-at="2020-04-15T11:56:46Z" finished-at="2020-04-15T11:58:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89717" started-at="2020-04-15T11:56:46Z" finished-at="2020-04-15T11:58:15Z">
+      <class name="Compaq.Listerner1.Test1">
+        <test-method status="PASS" signature="fbNotifications()[pri:0, instance:Compaq.Listerner1.Test1@28864e92]" name="fbNotifications" duration-ms="37046" started-at="2020-04-15T17:26:46Z" finished-at="2020-04-15T17:27:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[fbNotifications---Test script is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fbNotifications -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:Compaq.Listerner1.Test1@28864e92]" name="searchProduct" duration-ms="52639" started-at="2020-04-15T17:27:23Z" finished-at="2020-04-15T17:28:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[searchProduct---Test script is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- Compaq.Listerner1.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
